@@ -35,8 +35,8 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/Pankaj-Bashera/ai-resume-analyzer.git
-    cd ai-resume-analyzer
+    git clone https://github.com/gane891/Resume-Analyzer-.git
+    cd Resume-Analyzer-
     ```
 
 2.  **Install dependencies**
