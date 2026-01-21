@@ -6,7 +6,7 @@ import ATS from "~/components/feedback/ATS";
 import Details from "~/components/feedback/Details";
 
 export const meta = () => ([
-    { title: 'Resumind | Review ' },
+    { title: 'ResuNexus | Review ' },
     { name: 'description', content: 'Detailed overview of your resume' },
 ])
 

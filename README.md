@@ -1,46 +1,59 @@
-# 📄 AI Resume Analyzer  
+# 🚀 ResuNexus
 
-An **AI-powered web app** that analyzes your resume against a job description and provides an **ATS score** with **actionable tips** to improve your chances of getting shortlisted.  
-
----
-
-## ✨ Features  
-- 📑 **Resume Upload** – Upload your resume in PDF format.  
-- 📝 **Job Description Input** – Paste any job description to analyze.  
-- 🤖 **ATS Score Calculation** – Get a score out of 100 showing how well your resume matches the job.  
-- 💡 **Improvement Tips** – Actionable suggestions on skills, content, structure, and tone.  
-- ⚡ **Fast & Lightweight** – Powered by **Puter.js backend** with seamless API integration.  
+**ResuNexus** is your intelligent career companion—an **AI-powered resume analyzer** designed to bridge the gap between your resume and your dream job. It analyzes your resume against specific job descriptions, providing a detailed **ATS score** and **smart, actionable insights** to maximize your interview chances.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend:** React + TailwindCSS + TypeScript + Vite  
-- **Backend:** Puter.js (Node.js based serverless storage & APIs)  
-- **AI Analysis:** Custom `AIResponseFormat` with structured feedback  
-- **Other Tools:** Docker (optional)  
+## ✨ Key Features
+
+- **📑 Smart Resume Analysis** – Instantly process PDF resumes with precision.
+- **🎯 Job Fit Scoring** – Get a real-time **match score** (0-100%) based on job requirements.
+- **💡 Actionable Feedback** – Receive tailored advice on:
+    - **Keywords & Skills**: Missing critical terms found in the JD.
+    - **Structure & Formatting**: Optimization for Applicant Tracking Systems (ATS).
+    - **Tone & Impact**: Enhancing professional phrasing for maximum impact.
+- **⚡ Lightning Fast** – Powered by a serverless architecture for instant results.
 
 ---
 
-## 🚀 How It Works  
-1. Upload your resume (PDF).  
-2. Paste the job description.  
-3. Backend (Puter.js) analyzes and compares the content.  
-4. Get an **ATS Score** + **detailed tips** (skills, structure, tone, content).  
+## 🛠️ Technology Stack
 
+- **Frontend:** React 19, TailwindCSS, TypeScript, Vite
+- **Backend & Storage:** Puter.js (Serverless Cloud Platform)
+- **AI Engine:** Custom Logic with Structured Analysis
+- **Routing:** React Router v7
 
 ---
 
-## 🔧 Setup Instructions  
-```bash
-# Clone the repo
-git clone https://github.com/Pankaj-Bashera/ai-resume-analyzer.git
+## 🚀 Getting Started
 
-# Navigate to project folder
-cd ai-resume-analyzer
+### Prerequisites
+- Node.js (v20+ recommended)
+- npm or pnpm
 
-# Install dependencies
-npm install
+### Installation
 
-# Run the development server
-npm run dev
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/Pankaj-Bashera/ai-resume-analyzer.git
+    cd ai-resume-analyzer
+    ```
 
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Open in Browser**
+    Visit `http://localhost:5173` to start optimizing your resume!
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance ResuNexus.
